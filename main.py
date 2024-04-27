@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import pytz
 
 
-TOKEN = "13380399:AAF4vOlOSmTjn8512WUmTK6QjSJy6cNvlY0"
+TOKEN = "6813380399:AAF4vOlOSmTjn8512WUmTK6QjSJy6cNvlY0"
 chat_id = '-1002131363965'
 bot = telebot.TeleBot(TOKEN)
 
